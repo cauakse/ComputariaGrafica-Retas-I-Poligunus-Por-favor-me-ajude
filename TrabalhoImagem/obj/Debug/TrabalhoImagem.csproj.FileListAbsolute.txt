@@ -1,0 +1,21 @@
+C:\Users\caua_\OneDrive\Área de Trabalho\FIPP\TERMOS\6 TERMO\TTC\PRIMEIRO BIM\Trabalho\TrabalhoImagem\TrabalhoImagem\bin\Debug\TrabalhoImagem.exe.config
+C:\Users\caua_\OneDrive\Área de Trabalho\FIPP\TERMOS\6 TERMO\TTC\PRIMEIRO BIM\Trabalho\TrabalhoImagem\TrabalhoImagem\bin\Debug\TrabalhoImagem.exe
+C:\Users\caua_\OneDrive\Área de Trabalho\FIPP\TERMOS\6 TERMO\TTC\PRIMEIRO BIM\Trabalho\TrabalhoImagem\TrabalhoImagem\bin\Debug\TrabalhoImagem.pdb
+C:\Users\caua_\OneDrive\Área de Trabalho\FIPP\TERMOS\6 TERMO\TTC\PRIMEIRO BIM\Trabalho\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.csproj.AssemblyReference.cache
+C:\Users\caua_\OneDrive\Área de Trabalho\FIPP\TERMOS\6 TERMO\TTC\PRIMEIRO BIM\Trabalho\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.Form1.resources
+C:\Users\caua_\OneDrive\Área de Trabalho\FIPP\TERMOS\6 TERMO\TTC\PRIMEIRO BIM\Trabalho\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.Properties.Resources.resources
+C:\Users\caua_\OneDrive\Área de Trabalho\FIPP\TERMOS\6 TERMO\TTC\PRIMEIRO BIM\Trabalho\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.csproj.GenerateResource.cache
+C:\Users\caua_\OneDrive\Área de Trabalho\FIPP\TERMOS\6 TERMO\TTC\PRIMEIRO BIM\Trabalho\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.csproj.CoreCompileInputs.cache
+C:\Users\caua_\OneDrive\Área de Trabalho\FIPP\TERMOS\6 TERMO\TTC\PRIMEIRO BIM\Trabalho\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.exe
+C:\Users\caua_\OneDrive\Área de Trabalho\FIPP\TERMOS\6 TERMO\TTC\PRIMEIRO BIM\Trabalho\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.pdb
+C:\Users\caua_\OneDrive\Área de Trabalho\FIPP\TERMOS\6 TERMO\TTC\PRIMEIRO BIM\Trabalho\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.exe.config
+C:\Users\caua_\Desktop\Projetos C#\TTC1\TrabalhoImagem\TrabalhoImagem\bin\Debug\TrabalhoImagem.exe.config
+C:\Users\caua_\Desktop\Projetos C#\TTC1\TrabalhoImagem\TrabalhoImagem\bin\Debug\TrabalhoImagem.exe
+C:\Users\caua_\Desktop\Projetos C#\TTC1\TrabalhoImagem\TrabalhoImagem\bin\Debug\TrabalhoImagem.pdb
+C:\Users\caua_\Desktop\Projetos C#\TTC1\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.csproj.AssemblyReference.cache
+C:\Users\caua_\Desktop\Projetos C#\TTC1\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.Form1.resources
+C:\Users\caua_\Desktop\Projetos C#\TTC1\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.Properties.Resources.resources
+C:\Users\caua_\Desktop\Projetos C#\TTC1\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.csproj.GenerateResource.cache
+C:\Users\caua_\Desktop\Projetos C#\TTC1\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.csproj.CoreCompileInputs.cache
+C:\Users\caua_\Desktop\Projetos C#\TTC1\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.exe
+C:\Users\caua_\Desktop\Projetos C#\TTC1\TrabalhoImagem\TrabalhoImagem\obj\Debug\TrabalhoImagem.pdb

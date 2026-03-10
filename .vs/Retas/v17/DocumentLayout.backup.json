@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|c:\\users\\caua_\\desktop\\fipp\\termos\\7 termo\\computacao grafica\\primeiro bim\\projetos\\retas\\trabalhoimagem\\formpoligonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|solutionrelative:trabalhoimagem\\formpoligonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\trabalhoimagem\\formpoligonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|solutionrelative:trabalhoimagem\\formpoligonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\trabalhoimagem\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|solutionrelative:trabalhoimagem\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|c:\\users\\caua_\\desktop\\fipp\\termos\\7 termo\\computacao grafica\\primeiro bim\\projetos\\retas\\trabalhoimagem\\formretas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|solutionrelative:trabalhoimagem\\formretas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|c:\\users\\caua_\\desktop\\fipp\\termos\\7 termo\\computacao grafica\\primeiro bim\\projetos\\retas\\trabalhoimagem\\funcoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|solutionrelative:trabalhoimagem\\funcoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\trabalhoimagem\\formretas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DF83F32-6B2F-43F9-A87D-4382518B654A}|TrabalhoImagem\\Retas.csproj|solutionrelative:trabalhoimagem\\formretas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRetas.cs",
+              "DocumentMoniker": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\FormRetas.cs",
+              "RelativeDocumentMoniker": "TrabalhoImagem\\FormRetas.cs",
+              "ToolTip": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\FormRetas.cs",
+              "RelativeToolTip": "TrabalhoImagem\\FormRetas.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T01:07:08.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Funcoes.cs",
+              "DocumentMoniker": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\Funcoes.cs",
+              "RelativeDocumentMoniker": "TrabalhoImagem\\Funcoes.cs",
+              "ToolTip": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\Funcoes.cs",
+              "RelativeToolTip": "TrabalhoImagem\\Funcoes.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAAALwBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T01:06:55.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Poligono.cs",
+              "DocumentMoniker": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\Poligono.cs",
+              "RelativeDocumentMoniker": "TrabalhoImagem\\Poligono.cs",
+              "ToolTip": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\Poligono.cs",
+              "RelativeToolTip": "TrabalhoImagem\\Poligono.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:33:52.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPoligonos.cs",
+              "DocumentMoniker": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\FormPoligonos.cs",
+              "RelativeDocumentMoniker": "TrabalhoImagem\\FormPoligonos.cs",
+              "ToolTip": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\FormPoligonos.cs*",
+              "RelativeToolTip": "TrabalhoImagem\\FormPoligonos.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:31:08.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRetas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\FormRetas.cs",
+              "RelativeDocumentMoniker": "TrabalhoImagem\\FormRetas.cs",
+              "ToolTip": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\FormRetas.cs [Design]",
+              "RelativeToolTip": "TrabalhoImagem\\FormRetas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:08:18.635Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPoligonos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\FormPoligonos.cs",
+              "RelativeDocumentMoniker": "TrabalhoImagem\\FormPoligonos.cs",
+              "ToolTip": "C:\\Users\\caua_\\Desktop\\FIPP\\TERMOS\\7 TERMO\\COMPUTACAO GRAFICA\\PRIMEIRO BIM\\PROJETOS\\Retas\\TrabalhoImagem\\FormPoligonos.cs [Design]*",
+              "RelativeToolTip": "TrabalhoImagem\\FormPoligonos.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:12:42.759Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

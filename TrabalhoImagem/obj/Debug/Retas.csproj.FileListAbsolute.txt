@@ -1,0 +1,23 @@
+C:\Users\caua_\Desktop\Projetos C#\Retas\TrabalhoImagem\bin\Debug\TrabalhoImagem.exe.config
+C:\Users\caua_\Desktop\Projetos C#\Retas\TrabalhoImagem\bin\Debug\TrabalhoImagem.exe
+C:\Users\caua_\Desktop\Projetos C#\Retas\TrabalhoImagem\bin\Debug\TrabalhoImagem.pdb
+C:\Users\caua_\Desktop\Projetos C#\Retas\TrabalhoImagem\obj\Debug\Retas.csproj.AssemblyReference.cache
+C:\Users\caua_\Desktop\Projetos C#\Retas\TrabalhoImagem\obj\Debug\TrabalhoImagem.Form1.resources
+C:\Users\caua_\Desktop\Projetos C#\Retas\TrabalhoImagem\obj\Debug\TrabalhoImagem.Properties.Resources.resources
+C:\Users\caua_\Desktop\Projetos C#\Retas\TrabalhoImagem\obj\Debug\Retas.csproj.GenerateResource.cache
+C:\Users\caua_\Desktop\Projetos C#\Retas\TrabalhoImagem\obj\Debug\Retas.csproj.CoreCompileInputs.cache
+C:\Users\caua_\Desktop\Projetos C#\Retas\TrabalhoImagem\obj\Debug\TrabalhoImagem.exe
+C:\Users\caua_\Desktop\Projetos C#\Retas\TrabalhoImagem\obj\Debug\TrabalhoImagem.pdb
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\obj\Debug\Retas.csproj.AssemblyReference.cache
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\obj\Debug\TrabalhoImagem.Properties.Resources.resources
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\obj\Debug\Retas.csproj.GenerateResource.cache
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\obj\Debug\Retas.csproj.CoreCompileInputs.cache
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\obj\Debug\TrabalhoImagem.exe
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\obj\Debug\TrabalhoImagem.pdb
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\bin\Debug\TrabalhoImagem.exe.config
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\bin\Debug\TrabalhoImagem.exe
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\bin\Debug\TrabalhoImagem.pdb
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\obj\Debug\TrabalhoImagem.exe.config
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\obj\Debug\TrabalhoImagem.FormPrincipal.resources
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\obj\Debug\TrabalhoImagem.FormRetas.resources
+C:\Users\caua_\Desktop\FIPP\TERMOS\7 TERMO\COMPUTACAO GRAFICA\PRIMEIRO BIM\PROJETOS\Retas\TrabalhoImagem\obj\Debug\TrabalhoImagem.FormPoligonos.resources

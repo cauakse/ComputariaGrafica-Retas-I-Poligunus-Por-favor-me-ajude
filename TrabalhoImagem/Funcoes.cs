@@ -446,16 +446,13 @@ namespace TrabalhoImagem
 
         internal static unsafe void DesenharPoligono(Bitmap bitmap, List<Vertice> vertices, int v)
         {
-            for (int i = 0; i < vertices.Count; i++)
+            for (int i = 0; i < vertices.Count -1; i++)
             {
                 Point p0 = new Point(vertices[i].getX(), vertices[i].getY());
-                Point p1 = new Point(vertices[(i + 1) % vertices.Count].getX(), vertices[(i + 1) % vertices.Count].getY());
+                Point p1 = new Point(vertices[i + 1].getX(), vertices[i + 1].getY());
                 Desenhar(bitmap, p0, p1, v, AlgoritmoSelecionado.RETA_RETASRAPIDAS);
             }
 
-            Point p01 = new Point(vertices[vertices.Count - 1].getX(), vertices[vertices.Count - 1].getY());
-            Point p11 = new Point(vertices[0].getX(), vertices[0].getY());
-            Desenhar(bitmap, p01, p11, v, AlgoritmoSelecionado.RETA_RETASRAPIDAS);
         }
 
 

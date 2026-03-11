@@ -52,7 +52,20 @@ namespace TrabalhoImagem
             button2.Visible = false;
             modoDesenho = false;
 
+            if (poligonoSelecionado.Vertices.Count <= 3)
+            {
+                poligonoSelecionado = null;
+                pictureBox1.Image = originalBitmap;
+                pictureBox1.Refresh();
+                bufferBitmap?.Dispose();
+                return;
+            }
+            
+
             Funcoes.DesenharPoligono(originalBitmap, poligonoSelecionado.Vertices, 0);
+            Vertice ultimoVertice = poligonoSelecionado.Vertices[poligonoSelecionado.Vertices.Count - 1];
+            Vertice primeiro = poligonoSelecionado.Vertices[0];
+            Funcoes.Desenhar(originalBitmap, new Point(ultimoVertice.getX(), ultimoVertice.getY()), new Point(primeiro.getX(), primeiro.getY()), 0, AlgoritmoSelecionado.RETA_RETASRAPIDAS);
             pictureBox1.Image = originalBitmap;
             pictureBox1.Refresh();
             bufferBitmap?.Dispose();

@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AlgoritmoSelecionadoEnum.cs" />
+    <Compile Include="MatrizTransformacao.cs" />
     <Compile Include="FormPoligonos.cs">
       <SubType>Form</SubType>
     </Compile>
